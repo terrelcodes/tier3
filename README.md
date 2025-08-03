@@ -25,11 +25,6 @@ This project uses [Vitest](https://vitest.dev/) for testing. You can run the tes
 bunx --bun run test
 ```
 
-## Styling
-
-This project uses [Tailwind CSS](https://tailwindcss.com/) for styling.
-
-
 ## Linting & Formatting
 
 This project uses [Biome](https://biomejs.dev/) for linting and formatting. The following scripts are available:
